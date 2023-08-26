@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "795128690978",
+    "project_id": "sign-in-d15db",
+    "storage_bucket": "sign-in-d15db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795128690978:android:7929eb3e35e8dc762ecd7b",
+        "android_client_info": {
+          "package_name": "com.example.googlesign_in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795128690978-qev83htcekb1v546e92drphg58kqjg0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOYWiVqxuy6TF5UheaTdsvxpv2_D1pjLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795128690978-qev83htcekb1v546e92drphg58kqjg0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
